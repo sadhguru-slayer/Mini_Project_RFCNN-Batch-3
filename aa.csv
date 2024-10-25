@@ -1,0 +1,57 @@
+Parameters,Algorithms,Value
+RF Full Features,Precision,80.30263176083304
+RF Full Features,Recall,66.94379519065095
+RF Full Features,F1 Score,68.50115497963999
+RF Full Features,Accuracy,88.0
+AC Full Features,Precision,69.98481676380166
+AC Full Features,Recall,68.85549112232195
+AC Full Features,F1 Score,69.3271905903904
+AC Full Features,Accuracy,83.3
+ETC Full Features,Precision,78.19043576683646
+ETC Full Features,Recall,59.96380583614172
+ETC Full Features,F1 Score,64.10890635089365
+ETC Full Features,Accuracy,86.0
+GBM Full Features,Precision,83.12343998184706
+GBM Full Features,Recall,67.2646868274797
+GBM Full Features,F1 Score,67.8308982749475
+GBM Full Features,Accuracy,88.5
+VC(LR+SGD) Full Features,Precision,80.94907759042653
+VC(LR+SGD) Full Features,Recall,65.80269852338613
+VC(LR+SGD) Full Features,F1 Score,64.49100699609582
+VC(LR+SGD) Full Features,Accuracy,88.0
+CNN Full Features,Precision,88.97901769012879
+CNN Full Features,Recall,72.90265786457715
+CNN Full Features,F1 Score,77.12734852723963
+CNN Full Features,Accuracy,90.10000000000001
+RFCNN Full Features,Precision,85.18518518518518
+RFCNN Full Features,Recall,96.66666666666667
+RFCNN Full Features,F1 Score,88.7218045112782
+RFCNN Full Features,Accuracy,92.0
+RF Selected Features,Precision,91.93169192616737
+RF Selected Features,Recall,96.34557004924972
+RF Selected Features,F1 Score,93.87461840528174
+RF Selected Features,Accuracy,96.0
+AC Selected Features,Precision,93.68718712981008
+AC Selected Features,Recall,97.25917753693729
+AC Selected Features,F1 Score,95.31151795308477
+AC Selected Features,Accuracy,97.0
+ETC Selected Features,Precision,93.18909647857016
+ETC Selected Features,Recall,96.88457683460604
+ETC Selected Features,F1 Score,94.86034535448464
+ETC Selected Features,Accuracy,96.7
+GBM Selected Features,Precision,94.32238712944567
+GBM Selected Features,Recall,97.38248209920609
+GBM Selected Features,F1 Score,95.73624651409344
+GBM Selected Features,Accuracy,97.3
+VC(LR+SGD) Selected Features,Precision,93.2794938078256
+VC(LR+SGD) Selected Features,Recall,97.17697449542474
+VC(LR+SGD) Selected Features,F1 Score,95.03309035748325
+VC(LR+SGD) Selected Features,Accuracy,96.8
+CNN Selected Features,Precision,95.90658958618909
+CNN Selected Features,Recall,98.50628420619985
+CNN Selected Features,F1 Score,97.12732919254657
+CNN Selected Features,Accuracy,98.2
+RFCNN Selected Features,Precision,96.55172413793103
+RFCNN Selected Features,Recall,99.37106918238993
+RFCNN Selected Features,F1 Score,97.86435786435787
+RFCNN Selected Features,Accuracy,98.5
